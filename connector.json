@@ -5,10 +5,10 @@
   "type": "basic",
   "authCodeText": null,
   "userName": "testuser",
-  "password": "123456789",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "password": "1234567891112",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {
