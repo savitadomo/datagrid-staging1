@@ -11,7 +11,11 @@
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
@@ -28,7 +32,7 @@
   "reports": null,
   "advancedReports": null,
   "guid": "765fc46c-d04c-49b5-b3e5-b68ecfa55ea6",
-  "authorName": null,
+  "authorName": "Savita Shinde staging",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,

@@ -12,7 +12,11 @@
   "oauthPassword": null,
   "scope": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "additionalParameters": null,
   "tokenAddlParams": null,
